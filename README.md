@@ -22,59 +22,38 @@
 
 ###
 
-<table>
-<tr>
-<td width="50%">
+### Code Execution Microservice
+- **Description:** Django Rest Framework microservice enabling concurrent online code execution in isolated Docker sandbox environments. Built with security and scalability in mind.
+- **Tech Stack:** Python, Django (DRF), Celery, RabbitMQ, Docker, SQLlite
+- **Links:** [Repository](https://github.com/Mazene-ZERGUINE/CodeBox) 
 
-### 🐳 Code Execution Service
-A robust web service enabling concurrent online code execution in isolated Docker sandbox environments. Built with security and scalability in mind.
+###
 
-**Tech Stack:** Docker, Containerization, API Design
+### Leitner Learning System
+- **Description:** A full-stack web application implementing the Spaced Repetition learning method inspired by Sebastian Leitner's box-based system.
+- **Tech Stack:** Typescript, NestJS, Angular 19, Tailwindcss, Docker, Docker compose, Github actions CI, PostgreSQL
+- **Links:** [Frontend](https://github.com/Mazene-ZERGUINE/Leinter_learning_frontend) | [Backend]([https://github.com/Mazene-ZERGUINE/Leinter_learning_frontend](https://github.com/Mazene-ZERGUINE/Leinter_learning_backend))
 
-</td>
-<td width="50%">
+###
 
-### 📚 Leitner Learning System
-A full-stack web application implementing the Spaced Repetition learning method inspired by Sebastian Leitner's box-based system.
+### Economic Metrics Dashboard
+- **Description:** A serverless application (AWS + AWS-CDK) that fetches and visualizes key economic metrics across different countries with interactive charts.
+- **Tech Stack:** Typescript, Vuejs 3, AWS, AWS Lambda, AWS S3, AWS CloudFront, AWS-CDK , Infrastrucutre as Code (IaC)
+- **Links:** [Repository](https://github.com/Mazene-ZERGUINE/econom_x) | [Demo](https://d1k7sql7c3t8xt.cloudfront.net)
 
-**Tech Stack:** Angular, NestJS, TypeScript
+###
 
-</td>
-</tr>
+### Dev Social Platform
+- **Description:** A mini social media platform for developers featuring live code execution, real-time collaborative coding, and an integrated code editor.
+- **Tech Stack:** Typescript, NestJS, PostgreSQL, Angular 14, Tailwindcss, WebSockets, CI/CD,
+- **Links:** [Repository](https://github.com/Mazene-ZERGUINE/ESGITHUB) 
 
-<tr>
-<td width="50%">
+###
 
-### 📊 Economic Metrics Dashboard
-A serverless application that fetches and visualizes key economic metrics across different countries with interactive charts.
-
-**Tech Stack:** AWS Lambda, Vue.js, Chart.js, Serverless
-
-</td>
-<td width="50%">
-
-### 👨‍💻 Dev Social Platform
-A mini social media platform for developers featuring live code execution, real-time collaborative coding, and an integrated code editor.
-
-**Tech Stack:** WebSockets, Code Editor Integration, Real-time Collaboration
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌀 Fractal Explorer
-A distributed client-server system built in Rust for computing and rendering high-precision fractal images (Julia sets, Mandelbrot sets).
-
-**Tech Stack:** Rust, Distributed Computing, Graphics Rendering
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
+###  Fractal Explorer
+- **Description:** A distributed client-server system built in Rust for computing and rendering  fractal images (Julia sets, Mandelbrot sets).
+- **Tech Stack:** Rust, Distributed Computing
+- **Links:** [Repository](https://github.com/Mazene-ZERGUINE/fraktal_explorer) 
 
 ###
 
