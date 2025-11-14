@@ -22,40 +22,33 @@
 
 ###
 
-### Code Execution Microservice
-**Description:** Django Rest Framework microservice enabling concurrent online code execution in isolated Docker sandbox environments. Built with security and scalability in mind.
+<h3 align="left">🐳 Code Execution Microservice</h3>
 
-**Tech Stack:** Python, Django (DRF), Celery, RabbitMQ, Docker, SQLlite
-
-**Links:** [Repository](https://github.com/Mazene-ZERGUINE/CodeBox) 
+<p align="left">Django Rest Framework microservice enabling concurrent online code execution in isolated Docker sandbox environments.<br><br><strong>Tech:</strong> Python • Django (DRF) • Celery • RabbitMQ • Docker • SQLite<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/CodeBox">Repository</a></p>
 
 ###
 
-### Leitner Learning System
-- **Description:** A full-stack web application implementing the Spaced Repetition learning method inspired by Sebastian Leitner's box-based system.
-- **Tech Stack:** Typescript, NestJS, Angular 19, Tailwindcss, Docker, Docker compose, Github actions CI, PostgreSQL
-- **Links:** [Frontend](https://github.com/Mazene-ZERGUINE/Leinter_learning_frontend) | [Backend]([https://github.com/Mazene-ZERGUINE/Leinter_learning_frontend](https://github.com/Mazene-ZERGUINE/Leinter_learning_backend))
+<h3 align="left">📚 Leitner Learning System</h3>
+
+<p align="left">Full-stack web application implementing Spaced Repetition learning inspired by Sebastian Leitner's box-based system.<br><br><strong>Tech:</strong> TypeScript • NestJS • Angular 19 • TailwindCSS • Docker • PostgreSQL • GitHub Actions<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/Leinter_learning_frontend">Frontend</a> • <a href="https://github.com/Mazene-ZERGUINE/Leinter_learning_backend">Backend</a></p>
 
 ###
 
-### Economic Metrics Dashboard
-- **Description:** A serverless application (AWS + AWS-CDK) that fetches and visualizes key economic metrics across different countries with interactive charts.
-- **Tech Stack:** Typescript, Vuejs 3, AWS, AWS Lambda, AWS S3, AWS CloudFront, AWS-CDK , Infrastrucutre as Code (IaC)
-- **Links:** [Repository](https://github.com/Mazene-ZERGUINE/econom_x) | [Demo](https://d1k7sql7c3t8xt.cloudfront.net)
+<h3 align="left">📊 Economic Metrics Dashboard</h3>
+
+<p align="left">Serverless application that fetches and visualizes key economic metrics across countries with interactive charts.<br><br><strong>Tech:</strong> TypeScript • Vue.js 3 • AWS Lambda • S3 • CloudFront • AWS-CDK • IaC<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/econom_x">Repository</a> • <a href="https://d1k7sql7c3t8xt.cloudfront.net">Demo</a></p>
 
 ###
 
-### Dev Social Platform
-- **Description:** A mini social media platform for developers featuring live code execution, real-time collaborative coding, and an integrated code editor.
-- **Tech Stack:** Typescript, NestJS, PostgreSQL, Angular 14, Tailwindcss, WebSockets, CI/CD,
-- **Links:** [Repository](https://github.com/Mazene-ZERGUINE/ESGITHUB) 
+<h3 align="left">👨‍💻 Dev Social Platform</h3>
+
+<p align="left">Mini social media platform for developers with live code execution, real-time collaborative coding, and integrated editor.<br><br><strong>Tech:</strong> TypeScript • NestJS • PostgreSQL • Angular 14 • TailwindCSS • WebSockets<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/ESGITHUB">Repository</a></p>
 
 ###
 
-###  Fractal Explorer
-- **Description:** A distributed client-server system built in Rust for computing and rendering  fractal images (Julia sets, Mandelbrot sets).
-- **Tech Stack:** Rust, Distributed Computing
-- **Links:** [Repository](https://github.com/Mazene-ZERGUINE/fraktal_explorer) 
+<h3 align="left">🌀 Fractal Explorer</h3>
+
+<p align="left">Distributed client-server system for computing and rendering fractal images (Julia sets, Mandelbrot sets).<br><br><strong>Tech:</strong> Rust • Distributed Computing<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/fraktal_explorer">Repository</a></p>
 
 ###
 
