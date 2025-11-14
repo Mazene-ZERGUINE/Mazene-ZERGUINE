@@ -22,31 +22,31 @@
 
 ###
 
-<h3 align="left">🐳 Code Execution Microservice</h3>
+<h3 align="left">Code Execution Microservice</h3>
 
 <p align="left">Django Rest Framework microservice enabling concurrent online code execution in isolated Docker sandbox environments.<br><br><strong>Tech:</strong> Python • Django (DRF) • Celery • RabbitMQ • Docker • SQLite<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/CodeBox">Repository</a></p>
 
 ###
 
-<h3 align="left">📚 Leitner Learning System</h3>
+<h3 align="left">Leitner Learning System</h3>
 
 <p align="left">Full-stack web application implementing Spaced Repetition learning inspired by Sebastian Leitner's box-based system.<br><br><strong>Tech:</strong> TypeScript • NestJS • Angular 19 • TailwindCSS • Docker • PostgreSQL • GitHub Actions<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/Leinter_learning_frontend">Frontend</a> • <a href="https://github.com/Mazene-ZERGUINE/Leinter_learning_backend">Backend</a></p>
 
 ###
 
-<h3 align="left">📊 Economic Metrics Dashboard</h3>
+<h3 align="left">Economic Metrics Dashboard</h3>
 
 <p align="left">Serverless application that fetches and visualizes key economic metrics across countries with interactive charts.<br><br><strong>Tech:</strong> TypeScript • Vue.js 3 • AWS Lambda • S3 • CloudFront • AWS-CDK • IaC<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/econom_x">Repository</a> • <a href="https://d1k7sql7c3t8xt.cloudfront.net">Demo</a></p>
 
 ###
 
-<h3 align="left">👨‍💻 Dev Social Platform</h3>
+<h3 align="left">Dev Social Platform</h3>
 
 <p align="left">Mini social media platform for developers with live code execution, real-time collaborative coding, and integrated editor.<br><br><strong>Tech:</strong> TypeScript • NestJS • PostgreSQL • Angular 14 • TailwindCSS • WebSockets<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/ESGITHUB">Repository</a></p>
 
 ###
 
-<h3 align="left">🌀 Fractal Explorer</h3>
+<h3 align="left">Fractal Explorer</h3>
 
 <p align="left">Distributed client-server system for computing and rendering fractal images (Julia sets, Mandelbrot sets).<br><br><strong>Tech:</strong> Rust • Distributed Computing<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/fraktal_explorer">Repository</a></p>
 
