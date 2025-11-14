@@ -1,8 +1,8 @@
-<h1 align="left">Hey  What's up 👋</h1>
+<h1 align="left">Hey 👋 What's up</h1>
 
 ###
 
-<p align="left">I’m Mazene, a passionate software engenire  who loves building clean, scalable, and impactful software.</p>
+<p align="left">I'm Mazene, a passionate software engineer who loves building clean, scalable, and impactful software.</p>
 
 ###
 
@@ -14,7 +14,67 @@
 
 ###
 
-<p align="left">- Software Architecture <br>- Clean Code & Best Practices<br>- DevOps, /CD, containerization, and cloud-native workflows<br>- Web & Backend Development</p>
+<p align="left">- Software Architecture <br>- Clean Code & Best Practices<br>- DevOps, CI/CD, containerization, and cloud-native workflows<br>- Web & Backend Development</p>
+
+###
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+###
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐳 Code Execution Service
+A robust web service enabling concurrent online code execution in isolated Docker sandbox environments. Built with security and scalability in mind.
+
+**Tech Stack:** Docker, Containerization, API Design
+
+</td>
+<td width="50%">
+
+### 📚 Leitner Learning System
+A full-stack web application implementing the Spaced Repetition learning method inspired by Sebastian Leitner's box-based system.
+
+**Tech Stack:** Angular, NestJS, TypeScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Economic Metrics Dashboard
+A serverless application that fetches and visualizes key economic metrics across different countries with interactive charts.
+
+**Tech Stack:** AWS Lambda, Vue.js, Chart.js, Serverless
+
+</td>
+<td width="50%">
+
+### 👨‍💻 Dev Social Platform
+A mini social media platform for developers featuring live code execution, real-time collaborative coding, and an integrated code editor.
+
+**Tech Stack:** WebSockets, Code Editor Integration, Real-time Collaboration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌀 Fractal Explorer
+A distributed client-server system built in Rust for computing and rendering high-precision fractal images (Julia sets, Mandelbrot sets).
+
+**Tech Stack:** Rust, Distributed Computing, Graphics Rendering
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 ###
 
