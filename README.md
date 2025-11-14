@@ -23,9 +23,9 @@
 ###
 
 ### Code Execution Microservice
-- **Description:** Django Rest Framework microservice enabling concurrent online code execution in isolated Docker sandbox environments. Built with security and scalability in mind.
-- **Tech Stack:** Python, Django (DRF), Celery, RabbitMQ, Docker, SQLlite
-- **Links:** [Repository](https://github.com/Mazene-ZERGUINE/CodeBox) 
+**Description:** Django Rest Framework microservice enabling concurrent online code execution in isolated Docker sandbox environments. Built with security and scalability in mind.
+**Tech Stack:** Python, Django (DRF), Celery, RabbitMQ, Docker, SQLlite
+**Links:** [Repository](https://github.com/Mazene-ZERGUINE/CodeBox) 
 
 ###
 
