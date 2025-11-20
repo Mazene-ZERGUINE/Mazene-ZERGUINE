@@ -80,7 +80,6 @@
 <h3 align="left">Fractal Explorer</h3>
 <p align="left">Distributed client-server system for computing and rendering fractal images (Julia sets, Mandelbrot sets).<br><strong>Tech:</strong> Rust • Distributed Computing<br><strong>Link:</strong> <a href="https://github.com/Mazene-ZERGUINE/fraktal_explorer">Repository</a></p>
 
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mazene-ZERGUINE&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
