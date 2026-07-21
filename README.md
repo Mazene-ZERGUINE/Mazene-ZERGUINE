@@ -84,7 +84,7 @@
 
 ###
 
-<h3 align="left">EcoEats — Delivery Platform built with Clean & Plug-and-Play Architecture</h3>
+<h3 align="left">EcoEats - Delivery Platform built with Clean & Plug-and-Play Architecture</h3>
 <p align="left">delivery platform back-end built on a Clean Architecture with a fully isolated domain layer. Designed as a plug-and-play system, the business logic runs unchanged against <strong>2 interchangeable framework adapters</strong> (Express &amp; Fastify) and <strong>2 interchangeable database adapters</strong> (PostgreSQL via TypeORM &amp; MongoDB via Mongoose). The goal was to demonstrate the benefits of decoupling business logic from infrastructure concerns.<br><strong>Tech:</strong> TypeScript • Node.js • Express • Fastify • PostgreSQL • TypeORM • MongoDB • Mongoose • GitHub Actions (CI)<br><strong>Link:</strong> <a href="https://github.com/5ESGI-IW-Software-architecture/ecoeats-backend">Backend</a></p>
 
 
