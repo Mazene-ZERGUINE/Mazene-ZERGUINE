@@ -55,11 +55,9 @@
   <!-- Conteneurs & Orchestration -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*2G5KOQVzqVIbxxxeKECZkA.jpeg" height="45" alt="docker logo" />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg" height="40" alt="k3s logo" />
+
   <img width="12" />
 
   <!-- Cloud -->
